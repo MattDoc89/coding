@@ -1,3 +1,7 @@
+# Questo è il mio primo script
+# By Matteo
+
+
 
 def mostra_menu():
     """
