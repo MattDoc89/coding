@@ -1,4 +1,7 @@
-def calcola_area_triangolo (base, altezza):
+# Questo è il mio secondo script
+# By Matteo
+
+# def calcola_area_triangolo (base, altezza):
     """
     Funzione che calcola l'area di un triangolo.
     """
